@@ -1,0 +1,6 @@
+build/
+*.wal
+*.o
+*.exe
+.vscode/
+.clangd
